@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# vim: set fileencoding=utf-8:
+#
 def easy_input(question, answer=None, default=None):
 	"""Ask a question, return an answer.
 	
