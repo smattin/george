@@ -1,0 +1,2 @@
+An extension and simplification of GPT3 called LM-BFF https://arxiv.org/pdf/2012.15723v1.pdf preports to make it accessible for research purposes.
+This needs further investigation for appliability to the George project.
