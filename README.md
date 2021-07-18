@@ -1,6 +1,6 @@
 # george
 
-Due to copyright issues with HMH (my former employer), see [Curious Jorge](https://github.com/smattin/george/blob/master/Curious%20Jorge.ipynb).
+Due to copyright issues with HMH (my former employer), see [Curious Jorge](Curious%20Jorge.ipynb).
 
 (to HMH lawyers: "It's only a metaphor")
 
