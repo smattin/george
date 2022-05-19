@@ -1,3 +1,5 @@
+# see Program 4 in https://gvanrossum.github.io/docs/PyPatternMatching.pdf
+# for an example (hack) of dynamic function overloading
 from q import easy_input
 from collections import ChainMap,defaultdict
 from unittest import TestCase
